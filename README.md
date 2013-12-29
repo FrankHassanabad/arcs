@@ -15,7 +15,7 @@ multiple SVG layers, filters for shadows, and transitioning of colors.
 git clone https://github.com/FrankHassanabad/arcs.git
 ```
 
-Then open up a web browser to
+Then open up a web browser to your local file system at
 ```
-http://localhost:5000/arcs/index.html
+arcs/index.html
 ```
